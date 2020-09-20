@@ -1,0 +1,43 @@
+.image {
+    border: solid;
+    color: black;
+    overflow: auto;
+}
+
+.look2 {
+    color: blueviolet;
+}
+
+.text {
+    text-align: left;
+}
+
+.look {
+    color: rgb(15, 1, 1);
+    font-family: Georgia;
+}
+
+h2 {
+    color: rgb(49, 58, 182);
+    font-family: Star Wars;
+}
+
+.look3 {
+    color: rgba(90, 96, 97, 0.938);
+    font-family: Zapf-Chancery;
+}
+
+.look4 {
+    color: palevioletred;
+    font-family: Helvética;
+}
+
+.look5 {
+    color: rgb(15, 1, 1);
+    font-family: Helvética;
+}
+
+.back {
+    border-radius: 5px;
+    background: rgb(252, 223, 57);
+}
